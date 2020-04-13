@@ -13,6 +13,7 @@
 		DD87C50C2441616D00373C3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD87C50B2441616D00373C3D /* Assets.xcassets */; };
 		DD87C50F2441616D00373C3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD87C50E2441616D00373C3D /* Preview Assets.xcassets */; };
 		DD87C5122441616D00373C3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD87C5102441616D00373C3D /* LaunchScreen.storyboard */; };
+		DD87C51A2441620200373C3D /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD87C5192441620200373C3D /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD87C50E2441616D00373C3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DD87C5112441616D00373C3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD87C5132441616E00373C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD87C5192441620200373C3D /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DD87C5072441616B00373C3D /* SceneDelegate.swift */,
 				DD87C5092441616B00373C3D /* ContentView.swift */,
 				DD87C50B2441616D00373C3D /* Assets.xcassets */,
+				DD87C5192441620200373C3D /* SettingView.swift */,
 				DD87C5102441616D00373C3D /* LaunchScreen.storyboard */,
 				DD87C5132441616E00373C3D /* Info.plist */,
 				DD87C50D2441616D00373C3D /* Preview Content */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD87C5062441616B00373C3D /* AppDelegate.swift in Sources */,
+				DD87C51A2441620200373C3D /* SettingView.swift in Sources */,
 				DD87C5082441616B00373C3D /* SceneDelegate.swift in Sources */,
 				DD87C50A2441616B00373C3D /* ContentView.swift in Sources */,
 			);
